@@ -11,16 +11,13 @@
 }
 
 .encabezado {
-	background: lightgreen;
-    grid-area: encabezado;
+	grid-area: encabezado;
 }
 
 .contenido {
-	background: lightsalmon;
-    grid-area: contenido;
+	grid-area: contenido;
 }
 
 .rodapie {
-	background: lightslategray;
-    grid-area: rodapie;
+	grid-area: rodapie;
 }
