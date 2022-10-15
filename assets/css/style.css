@@ -28,8 +28,13 @@
 
 .contenido {
 	grid-area: contenido;
+	padding: 0 2rem;
 }
 
 .rodapie {
+	background: #fdfdfd;
+	color: #333333;
 	grid-area: rodapie;
+	padding: 1rem;
+	text-align: center;
 }
